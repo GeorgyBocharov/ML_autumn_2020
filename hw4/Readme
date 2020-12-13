@@ -1,0 +1,2 @@
+Working with decision trees (building my own tree), bagging and random forest. During the work titanic dataset was used. The input data was preprocessed. 
+Classification was made using decision tree, bagging and random forest classifiers written by me. Afterwards, the same classifiers from sklearn library were used.
